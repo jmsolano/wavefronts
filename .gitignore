@@ -1,0 +1,8 @@
+*.eps
+*.pdf
+*.dat
+*.o
+.DS_Store
+test/reconstructor
+src/addGenGPLv3
+
