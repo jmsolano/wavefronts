@@ -1,0 +1,9 @@
+
+For using this software, you will need armadillo and gnuplot to be installed
+in your system.
+
+For testing the classes, go to test and type
+
+$make
+$./reconstructor
+
